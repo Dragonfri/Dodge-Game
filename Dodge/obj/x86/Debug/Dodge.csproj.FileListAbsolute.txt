@@ -1,0 +1,91 @@
+C:\Users\kim\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\kim\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Dodge.exe
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Dodge.pdb
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kim\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csproj.CopyComplete
+C:\Users\kim\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.exe
+C:\Users\kim\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.pdb
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Fonts\hilightfont.xnb
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Flight.xnb
+C:\Users\kim\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Flight.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Fonts\hilightfont.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Dodge.exe
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Dodge.pdb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.csproj.CopyComplete
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.exe
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\obj\x86\Debug\Dodge.pdb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\About.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Help.xnb
+C:\Users\Ykim1059\Desktop\Dodge\Dodge\bin\Windows\x86\Debug\Content\Images\Title.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Images\About.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Images\Flight.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Images\Help.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Images\Title.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Fonts\hilightfont.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Dodge.exe.manifest
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Dodge.application
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Dodge.exe
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\Dodge.pdb
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.exe.manifest
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.application
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.csproj.CopyComplete
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.exe
+C:\Users\Ykim1059\Downloads\YKim FinalProject\YKim FinalProject\SourceCode\Dodge\obj\x86\Debug\Dodge.pdb

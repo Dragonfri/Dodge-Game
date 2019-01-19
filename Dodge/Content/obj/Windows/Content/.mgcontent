@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Fonts/hilightfont.spritefont</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Fonts/regularfont.spritefont</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Images/About.PNG</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Images/Bullet.bmp</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Images/Flight.png</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Images/Help.PNG</File>
+    <File>C:/Users/Ykim1059/Downloads/YKim FinalProject/YKim FinalProject/SourceCode/Dodge/Content/Images/Title.PNG</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
